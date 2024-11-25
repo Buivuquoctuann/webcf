@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\webcf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09B81E5-EF1C-4FC4-AD50-A58C5B2FC86D}|webcf\\webcf.csproj|c:\\users\\admin\\source\\repos\\webcf\\webcf\\views\\shared\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09B81E5-EF1C-4FC4-AD50-A58C5B2FC86D}|webcf\\webcf.csproj|solutionrelative:webcf\\views\\shared\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09B81E5-EF1C-4FC4-AD50-A58C5B2FC86D}|webcf\\webcf.csproj|C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09B81E5-EF1C-4FC4-AD50-A58C5B2FC86D}|webcf\\webcf.csproj|solutionrelative:webcf\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09B81E5-EF1C-4FC4-AD50-A58C5B2FC86D}|webcf\\webcf.csproj|C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C09B81E5-EF1C-4FC4-AD50-A58C5B2FC86D}|webcf\\webcf.csproj|solutionrelative:webcf\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09B81E5-EF1C-4FC4-AD50-A58C5B2FC86D}|webcf\\webcf.csproj|C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09B81E5-EF1C-4FC4-AD50-A58C5B2FC86D}|webcf\\webcf.csproj|solutionrelative:webcf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "webcf\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "webcf\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T16:01:51.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "webcf\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "webcf\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:38:41.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\Views\\Shared\\Test.cshtml",
+              "RelativeDocumentMoniker": "webcf\\Views\\Shared\\Test.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\Views\\Shared\\Test.cshtml*",
+              "RelativeToolTip": "webcf\\Views\\Shared\\Test.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:39:48.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "webcf\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\webcf\\webcf\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "webcf\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:39:07.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
